@@ -1,0 +1,3 @@
+#Chatbot da Doceria
+
+Este é o README para o chatbot da Doceria. Este chatbot foi desenvolvido para ajudar os clientes a obter informações sobre a sua doceria, fazer pedidos e obter respostas rápidas sobre produtos e serviços. O chatbot foi criado usando [inserir nome da plataforma ou tecnologia utilizada] e pode ser implantado em diferentes canais de comunicação, como website, redes sociais, WhatsApp, etc.
